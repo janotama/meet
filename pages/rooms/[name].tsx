@@ -23,8 +23,8 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>LiveKit Meet</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Janotama Meet</title>
+        {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
 
       <main data-lk-theme="default">
